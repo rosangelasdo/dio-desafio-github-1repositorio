@@ -1,0 +1,8 @@
+Comandos do GIT:
+
+$ ls -a   (lista as pastas e diretórios ocultos)
+$ git clone nome-do-arquivo (copiado)
+$ git add .*
+$ git PULL (puxa/traz)
+$ git PUSH  (empurra para publicação)
+$ git push origin master
